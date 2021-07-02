@@ -49,7 +49,7 @@
           <locales>en</locales>
           <inputEncoding>UTF-8</inputEncoding>
           <outputEncoding>UTF-8</outputEncoding>
-          <outputDirectory>internal.repo::default::file:///${project.build.directory}/mvn-repo</outputDirectory>
+          <outputDirectory>mvn-repo</outputDirectory>
         </configuration>
         <dependencies>
           <dependency>
